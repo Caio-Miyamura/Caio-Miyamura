@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Caio Miyamura 👋
 
-<!--
-**Caio-Miyamura/Caio-Miyamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at UNICAMP focused on Artificial Intelligence, Machine Learning and Data Science.
 
-Here are some ideas to get you started:
+My interests lie in applying AI to real-world problems, especially in:
+- Machine Learning & Deep Learning
+- Computer Vision
+- Data Science
+- Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in Electrical Engineering connects software, hardware and intelligent algorithms, allowing me to explore solutions that combine data, computation and physical systems.
+
+## 🚀 Current Projects & Experiences
+
+- **Machine Learning for Agricultural Data** — developing predictive models for cacao productivity using environmental and climate data.
+- **Formula Electric Team** — experience with electrical systems, embedded applications and vehicle development.
+
+## 🛠️ Technologies
+
+**Programming**
+- Python | C | SQL
+
+**Data & AI**
+- NumPy | Pandas | Matplotlib
+
+**Engineering**
+- Embedded Systems | Electronics
+
+## 🎯 Goals
+
+Building a strong foundation in AI and intelligent systems, with the goal of applying machine learning to robotics, autonomous systems and real-world engineering problems.
+
+## 📫 Connect with me
+
+LinkedIn: www.linkedin.com/in/caio-tatsuo-miyamura-74469328a
